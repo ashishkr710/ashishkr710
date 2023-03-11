@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Ashish Kumar</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashishkr710&label=Profile%20views&color=0e75b6&style=flat" alt="ashishkr710" /> </p>
 
@@ -17,9 +15,6 @@
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1NYZKwjqjV-IjILVUxCICkI_UD1_VbqQBZHfqXiaM9Lc/edit?usp=share_link](https://docs.google.com/document/d/1NYZKwjqjV-IjILVUxCICkI_UD1_VbqQBZHfqXiaM9Lc/edit?usp=share_link)
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -41,24 +36,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashishkr710&" alt="ashishkr710" /></p>
 
-<!--
-**ashishkr710/ashishkr710** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-```
-print("Hello")
-```
 [![@ashishkr710's Holopin board](https://holopin.me/ashishkr710)](https://holopin.io/@ashishkr710)
 
 
