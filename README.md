@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Hostel Bazaar E-commerce](https://github.com/ashishkr710/HostelBazaar_E-Commerce)
+- 🔭 I’m currently working on [Integrated-Project-Management-System](https://github.com/ashishkr710/Integrated-Project-Management-System)
 
 - 🌱 I’m currently learning **Spring Boot**
 
