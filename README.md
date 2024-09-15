@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on [Integrated-Project-Management-System](https://github.com/ashishkr710/Integrated-Project-Management-System)
 
-- 🌱 I’m currently learning **Spring Boot**
+- 🌱 I’m currently learning **React, Node, Express**
 
-- 💬 Ask me about **Spring Boot, Java**
+- 💬 Ask me about **Spring Boot, Java, JavaScript **
 
 - 📫 How to reach me **ashishkr710@gmail.com**
 
