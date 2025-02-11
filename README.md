@@ -7,13 +7,15 @@
 
 - 🔭 I’m currently working on [Integrated-Project-Management-System](https://github.com/ashishkr710/Integrated-Project-Management-System)
 
-- 🌱 I’m currently learning **React, Node, Express**
+- 🌱 I’m currently learning **Next.js**
 
-- 💬 Ask me about **Spring Boot, Java, JavaScript, TypeScript**
+- 💬 Ask me about **Spring Boot, Java, JavaScript, TypeScript , MERN Stack**
 
 - 📫 How to reach me **ashishkr710@gmail.com**
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1NYZKwjqjV-IjILVUxCICkI_UD1_VbqQBZHfqXiaM9Lc/edit?usp=share_link](https://docs.google.com/document/d/1NYZKwjqjV-IjILVUxCICkI_UD1_VbqQBZHfqXiaM9Lc/edit?usp=share_link)
+
+- Konw about me - (https://ashish.software)
 
 
 <h3 align="left">Connect with me:</h3>
