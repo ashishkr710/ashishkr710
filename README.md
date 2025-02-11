@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1NYZKwjqjV-IjILVUxCICkI_UD1_VbqQBZHfqXiaM9Lc/edit?usp=share_link](https://docs.google.com/document/d/1NYZKwjqjV-IjILVUxCICkI_UD1_VbqQBZHfqXiaM9Lc/edit?usp=share_link)
 
-- Konw about me - https://ashish.software
+- 👋,Konw about me - https://ashish.software
 
 
 <h3 align="left">Connect with me:</h3>
