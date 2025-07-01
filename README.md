@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **ashishkr710@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1NYZKwjqjV-IjILVUxCICkI_UD1_VbqQBZHfqXiaM9Lc/edit?usp=share_link](https://docs.google.com/document/d/1NYZKwjqjV-IjILVUxCICkI_UD1_VbqQBZHfqXiaM9Lc/edit?usp=share_link)
+- 📄 Know about my experiences [https://docs.google.com/document/d/1X0mRyVpjk5IZ31NpFaJp-KpGxF39DTbZFF4qC8rJZxw/edit?usp=sharing]
 
 - 👋,Konw about me - https://ashish.software
 
