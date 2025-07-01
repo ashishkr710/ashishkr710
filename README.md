@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Integrated-Project-Management-System](https://github.com/ashishkr710/Integrated-Project-Management-System)
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **Next.js, Vapi Ai**
 
 - 💬 Ask me about **Spring Boot, Java, JavaScript, TypeScript , MERN Stack**
 
