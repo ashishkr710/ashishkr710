@@ -3,25 +3,23 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashishkr710" alt="ashishkr710" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+- 🔭 I'm currently working on [Integrated-Project-Management-System](https://github.com/ashishkr710/Integrated-Project-Management-System)
 
-- 🔭 I’m currently working on [Integrated-Project-Management-System](https://github.com/ashishkr710/Integrated-Project-Management-System)
+- 🌱 I'm currently learning **Next.js, Vapi AI**
 
-- 🌱 I’m currently learning **Next.js, Vapi Ai**
-
-- 💬 Ask me about **Spring Boot, Java, JavaScript, TypeScript , MERN Stack**
+- 💬 Ask me about **Spring Boot, Java, JavaScript, TypeScript, MERN Stack**
 
 - 📫 How to reach me **ashishkr710@gmail.com**
 
 - 📄 Know about my experiences - https://docs.google.com/document/d/1X0mRyVpjk5IZ31NpFaJp-KpGxF39DTbZFF4qC8rJZxw/edit?usp=drivesdk
 
-- 👋,Konw about me - https://ashish.software
+- 👋 Know about me - https://ashish.software
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/@ashishkr710" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@ashishkr710" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ashish-kumar-b39769119/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ashish-kumar-b39769119/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ashish-kumar-b39769119/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ashish Kumar LinkedIn" height="30" width="40" /></a>
 <a href="https://instagram.com/ashishkr.121" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ashishkr.121" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/ashishkr710" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ashishkr710" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ashishkr710" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ashishkr710" height="30" width="40" /></a>
@@ -38,8 +36,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashishkr710&" alt="ashishkr710" /></p>
 
-
 [![@ashishkr710's Holopin board](https://holopin.me/ashishkr710)](https://holopin.io/@ashishkr710)
-
-
-
