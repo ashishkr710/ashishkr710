@@ -1,39 +1,212 @@
 <h1 align="center">Hi 👋, I'm Ashish Kumar</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashishkr710&label=Profile%20views&color=0e75b6&style=flat" alt="ashishkr710" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashishkr710" alt="ashishkr710" /></a> </p>
+<h3 align="center">
+Full Stack Developer • MERN • AI • Microservices • Distributed Systems
+</h3>
 
-- 🔭 I'm currently working on [Integrated-Project-Management-System](https://github.com/ashishkr710/Integrated-Project-Management-System)
-
-- 🌱 I'm currently learning **Next.js, Vapi AI**
-
-- 💬 Ask me about **Spring Boot, Java, JavaScript, TypeScript, MERN Stack**
-
-- 📫 How to reach me **ashishkr710@gmail.com**
-
-- 📄 Know about my experiences - https://docs.google.com/document/d/1X0mRyVpjk5IZ31NpFaJp-KpGxF39DTbZFF4qC8rJZxw/edit?usp=drivesdk
-
-- 👋 Know about me - https://ashish.software
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/@ashishkr710" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@ashishkr710" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/ashish-kumar-b39769119/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ashish Kumar LinkedIn" height="30" width="40" /></a>
-<a href="https://instagram.com/ashishkr.121" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ashishkr.121" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/ashishkr710" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ashishkr710" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ashishkr710" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ashishkr710" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/ashishkr710" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="ashishkr710" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/ashishkr710/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ashishkr710/profile" height="30" width="40" /></a>
+<p align="center">
+Building scalable web applications with modern JavaScript technologies and AI-powered solutions.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=ashishkr710&label=Profile%20Views&color=0e75b6&style=flat" alt="ashishkr710"/>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashishkr710&show_icons=true&locale=en&layout=compact" alt="ashishkr710" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashishkr710&show_icons=true&locale=en" alt="ashishkr710" /></p>
+## 🚀 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashishkr710&" alt="ashishkr710" /></p>
+- 💼 Full Stack Developer with **1.4+ years** of experience building production-ready web applications.
+- 🔭 **Currently building SmartEats** – an AI-powered, microservices-based food delivery platform inspired by Zomato & Swiggy.
+- 🤖 Passionate about **AI, Distributed Systems, Microservices, Cloud-Native Architecture, and System Design**.
+- 🌱 Currently learning **Kubernetes, AI Agents, RAG, Advanced System Design, and Scalable Distributed Systems**.
+- ☕ Solved **220+ LeetCode problems** using **Java**.
+- 💬 Ask me about **MERN Stack, TypeScript, NestJS, Node.js, Next.js, Java (DSA), AI Integrations, and Microservices**.
+
+---
+
+## 💻 Tech Stack
+
+### Languages
+
+JavaScript • TypeScript • Java • Python
+
+### Frontend
+
+React.js • Next.js • HTML • CSS • Tailwind CSS • Shadcn UI
+
+### Backend
+
+Node.js • Express.js • REST APIs • JWT • WebSockets
+
+### Databases
+
+MongoDB • MySQL • PostgreSQL • Redis
+
+### AI
+
+OpenAI API • Vapi AI • LangChain • Prompt Engineering
+
+### DevOps & Tools
+
+Git • GitHub • Docker • AWS • Postman • GitHub Actions
+
+---
+## 🚀 Currently Building
+
+# 🍔 SmartEats
+
+An **AI-powered, production-grade food delivery platform** inspired by **Zomato** and **Swiggy**, built using a **microservices architecture** with a focus on scalability, real-time communication, cloud-native deployment, and AI-driven user experiences.
+
+### ⚡ What I'm building
+
+- 🏗️ 7 independently deployable NestJS microservices
+- 🤖 AI-powered restaurant search using OpenAI LLMs
+- ⚡ Event-driven architecture with Apache Kafka
+- 🛡️ ML-based fraud detection pipeline
+- 🎯 Personalized recommendation engine with Redis caching
+- 💬 AI customer support agent with conversational memory
+- 📍 Real-time delivery tracking using Kafka & WebSockets
+- 📊 Observability using Prometheus, Grafana & Jaeger
+- ☁️ AWS EKS deployment using Docker, Kubernetes & Helm
+- 🚀 GitHub Actions CI/CD
+- 📈 Load testing using k6
+
+### 🛠 Tech Stack
+
+`NestJS` • `TypeScript` • `PostgreSQL` • `MongoDB` • `Redis`
+
+`Apache Kafka` • `BullMQ` • `Elasticsearch`
+
+`OpenAI API`
+
+`Docker` • `Kubernetes` • `Helm`
+
+`Prometheus` • `Grafana` • `Jaeger`
+
+`GitHub Actions`
+
+`AWS EKS`
+
+> 🚧 **Status:** Actively under development. I'm currently building the **Web** and **Mobile** frontends while continuously improving the backend architecture, scalability, AI capabilities, and user experience.
+## 🚀 Featured Projects
+
+### 🏸 Padel Sports
+
+Production-ready sports court booking platform built with
+
+- Next.js
+- TypeScript
+- Node.js
+- MySQL
+- AWS
+- Redis
+- WebSockets
+
+Features:
+
+- Court Booking
+- Scheduler
+- Pricing Management
+- Authentication
+- Real-time Updates
+
+---
+
+### 🤖 AI Automotive Service Assistant
+
+Voice-powered AI assistant using
+
+- OpenAI
+- Vapi AI
+- Node.js
+- Express.js
+
+Features
+
+- Voice Conversations
+- Appointment Booking
+- Customer Lookup
+- API Integrations
+
+---
+
+### 🏢 ERP Management System
+
+Complete ERP platform including
+
+- Student Management
+- Finance
+- HR
+- Attendance
+- Reporting
+
+Built using
+
+React • Node.js • Express • MySQL
+
+---
+
+## 📈 Current Focus
+
+- AI Agents
+- Retrieval Augmented Generation (RAG)
+- System Design
+- Distributed Systems
+- Docker
+- AWS
+- Microservices
+
+---
+
+## 🏆 Achievements
+
+🏅 220+ LeetCode Problems Solved
+
+🏅 Hacktoberfest Contributor
+
+🏅 Built Multiple Production Applications
+
+🏅 MERN Full Stack Developer
+
+---
+
+## 📫 Connect with me
+
+- 🌐 Portfolio: https://ashish.software
+- 💼 LinkedIn: https://linkedin.com/in/ashish-kumar-b39769119
+- 📧 Email: ashishkr710@gmail.com
+- 💻 GitHub: https://github.com/ashishkr710
+
+---
+
+## 🌐 Profiles
+
+- HackerRank
+- GeeksforGeeks
+- Dev.to
+- HackerEarth
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ashishkr710&show_icons=true&theme=github_dark"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashishkr710&layout=compact&theme=github_dark"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ashishkr710&theme=github-dark"/>
+
+</p>
+
+---
+
+## 🏅 Holopin
 
 [![@ashishkr710's Holopin board](https://holopin.me/ashishkr710)](https://holopin.io/@ashishkr710)
